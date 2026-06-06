@@ -1,0 +1,1000 @@
+amount,city,customer_id,order_date,order_id,order_status,product,_rescued_data
+45089.89,Mumbai,14,2023-01-13,1,shipped,Headphones,null
+29590.09,Bangalore,1,2023-01-07,2,created,Laptop,null
+44627.93,Bangalore,19,2023-01-11,3,delivered,Tablet,null
+4563.1,Bangalore,6,2023-01-24,4,delivered,Laptop,null
+14077.68,Mumbai,3,2023-01-15,5,shipped,Phone,null
+25872.38,Mumbai,20,2023-01-02,6,created,Phone,null
+30814.35,Bangalore,8,2023-01-31,7,delivered,Laptop,null
+48829.86,Andhra Pradesh,10,2023-01-17,8,cancelled,Laptop,null
+44896.78,Andhra Pradesh,20,2023-01-08,9,delivered,Phone,null
+25334.82,Mumbai,3,2023-01-06,10,delivered,Phone,null
+8604.31,Andhra Pradesh,3,2023-01-05,11,cancelled,Tablet,null
+34408.18,Andhra Pradesh,1,2023-01-31,12,shipped,Laptop,null
+26558.66,Mumbai,8,2023-01-18,13,shipped,Tablet,null
+3154.83,Andhra Pradesh,14,2023-01-17,14,created,Laptop,null
+23036.6,Bangalore,8,2023-01-10,15,delivered,Headphones,null
+36153.33,Andhra Pradesh,1,2023-01-06,16,delivered,Tablet,null
+46300.61,Andhra Pradesh,17,2023-01-18,17,delivered,Tablet,null
+42709.97,Andhra Pradesh,5,2023-01-07,18,delivered,Laptop,null
+7490.5,Bangalore,1,2023-01-29,19,shipped,Headphones,null
+9414.99,Mumbai,7,2023-01-31,20,cancelled,Phone,null
+47526.53,Chennai,5,2023-01-02,21,delivered,Laptop,null
+9164.07,Mumbai,5,2023-01-19,22,cancelled,Laptop,null
+44463.82,Bangalore,4,2023-01-29,23,cancelled,Laptop,null
+3909.8,Mumbai,8,2023-01-18,24,cancelled,Phone,null
+2433.04,Chennai,20,2023-01-17,25,delivered,Headphones,null
+47883.13,Andhra Pradesh,11,2023-01-15,26,shipped,Phone,null
+12934.44,Mumbai,1,2023-01-05,27,shipped,Phone,null
+33236.65,Chennai,17,2023-01-14,28,cancelled,Phone,null
+5426.12,Bangalore,15,2023-01-24,29,cancelled,Headphones,null
+47457.2,Andhra Pradesh,7,2023-01-15,30,created,Tablet,null
+34808.92,Andhra Pradesh,5,2023-01-03,31,delivered,Tablet,null
+49472.37,Andhra Pradesh,14,2023-01-18,32,delivered,Laptop,null
+10780.46,Bangalore,3,2023-01-31,33,cancelled,Laptop,null
+38804.31,Andhra Pradesh,16,2023-01-28,34,delivered,Tablet,null
+41623.58,Andhra Pradesh,14,2023-01-15,35,cancelled,Headphones,null
+30969.65,Andhra Pradesh,5,2023-01-28,36,delivered,Laptop,null
+25248.01,Andhra Pradesh,13,2023-01-23,37,cancelled,Laptop,null
+677.03,Andhra Pradesh,11,2023-01-09,38,cancelled,Tablet,null
+46628.98,Andhra Pradesh,15,2023-01-18,39,shipped,Phone,null
+5494.54,Bangalore,16,2023-01-27,40,cancelled,Laptop,null
+15228.34,Chennai,4,2023-01-02,41,shipped,Tablet,null
+37655.56,Bangalore,19,2023-01-05,42,delivered,Laptop,null
+45588.21,Mumbai,3,2023-01-28,43,cancelled,Laptop,null
+14873.91,Andhra Pradesh,12,2023-01-08,44,delivered,Laptop,null
+13803.81,Chennai,6,2023-01-11,45,delivered,Tablet,null
+11526.84,Andhra Pradesh,8,2023-01-20,46,shipped,Tablet,null
+32223.37,Mumbai,10,2023-01-21,47,shipped,Headphones,null
+6194.67,Andhra Pradesh,8,2023-01-08,48,created,Tablet,null
+34521.56,Chennai,16,2023-01-01,49,cancelled,Headphones,null
+26763.86,Mumbai,17,2023-01-14,50,cancelled,Laptop,null
+27936.05,Andhra Pradesh,1,2023-01-18,51,created,Phone,null
+31506.24,Andhra Pradesh,10,2023-01-23,52,delivered,Phone,null
+37817.37,Bangalore,12,2023-01-30,53,created,Headphones,null
+42183.05,Chennai,3,2023-01-04,54,shipped,Headphones,null
+20167.14,Bangalore,11,2023-01-24,55,created,Phone,null
+1808.24,Chennai,15,2023-01-15,56,cancelled,Headphones,null
+803.31,Mumbai,6,2023-01-06,57,cancelled,Laptop,null
+30796.11,Chennai,9,2023-01-19,58,shipped,Phone,null
+25223.36,Mumbai,11,2023-01-24,59,created,Phone,null
+36755.45,Chennai,2,2023-01-12,60,delivered,Phone,null
+19481.89,Mumbai,10,2023-01-07,61,delivered,Headphones,null
+8535.63,Andhra Pradesh,9,2023-01-21,62,created,Tablet,null
+37110.92,Chennai,19,2023-01-23,63,shipped,Laptop,null
+3309.35,Andhra Pradesh,13,2023-01-20,64,shipped,Phone,null
+19999.11,Andhra Pradesh,5,2023-01-26,65,cancelled,Tablet,null
+9399.5,Mumbai,9,2023-01-17,66,created,Laptop,null
+49192.39,Mumbai,12,2023-01-06,67,delivered,Tablet,null
+5970.6,Chennai,1,2023-01-26,68,created,Headphones,null
+22587.89,Chennai,15,2023-01-19,69,created,Tablet,null
+3826.01,Andhra Pradesh,10,2023-01-23,70,delivered,Tablet,null
+3668.59,Mumbai,9,2023-01-17,71,shipped,Phone,null
+6192.93,Mumbai,12,2023-01-23,72,shipped,Headphones,null
+10301.16,Mumbai,13,2023-01-08,73,delivered,Phone,null
+27003.1,Chennai,3,2023-01-13,74,shipped,Phone,null
+19641.53,Mumbai,18,2023-01-09,75,cancelled,Tablet,null
+28576.49,Andhra Pradesh,16,2023-01-14,76,shipped,Tablet,null
+7384.8,Mumbai,18,2023-01-08,77,created,Headphones,null
+1784.92,Andhra Pradesh,5,2023-01-14,78,shipped,Tablet,null
+8903.93,Andhra Pradesh,13,2023-01-25,79,cancelled,Headphones,null
+18886.89,Bangalore,7,2023-01-16,80,shipped,Headphones,null
+24003.44,Mumbai,17,2023-01-20,81,shipped,Headphones,null
+44017.82,Bangalore,7,2023-01-09,82,shipped,Laptop,null
+29005.81,Mumbai,15,2023-01-17,83,delivered,Tablet,null
+9759.02,Chennai,12,2023-01-19,84,shipped,Headphones,null
+3330.37,Chennai,20,2023-01-11,85,cancelled,Headphones,null
+14149.17,Andhra Pradesh,11,2023-01-26,86,created,Phone,null
+21762.11,Chennai,15,2023-01-05,87,cancelled,Tablet,null
+22683.75,Bangalore,18,2023-01-06,88,created,Laptop,null
+20266.95,Andhra Pradesh,17,2023-01-25,89,cancelled,Phone,null
+28951.49,Bangalore,9,2023-01-31,90,cancelled,Tablet,null
+38895.09,Andhra Pradesh,10,2023-01-15,91,shipped,Phone,null
+12862.81,Chennai,8,2023-01-16,92,cancelled,Tablet,null
+627.54,Bangalore,6,2023-01-24,93,delivered,Phone,null
+5348.28,Andhra Pradesh,7,2023-01-29,94,shipped,Laptop,null
+48022.58,Andhra Pradesh,18,2023-01-05,95,cancelled,Tablet,null
+44942.7,Bangalore,7,2023-01-15,96,delivered,Phone,null
+2332.31,Bangalore,2,2023-01-24,97,created,Phone,null
+17621.09,Mumbai,20,2023-01-22,98,created,Headphones,null
+21091.85,Andhra Pradesh,18,2023-01-07,99,created,Headphones,null
+20718.98,Bangalore,3,2023-01-08,100,cancelled,Laptop,null
+33726.08,Mumbai,7,2023-01-12,101,created,Phone,null
+17241.61,Bangalore,8,2023-01-06,102,created,Headphones,null
+9603.04,Andhra Pradesh,10,2023-01-30,103,created,Headphones,null
+17037.59,Andhra Pradesh,12,2023-01-24,104,created,Laptop,null
+37089.66,Mumbai,1,2023-01-12,105,created,Headphones,null
+9158.2,Mumbai,4,2023-01-24,106,created,Tablet,null
+18609.72,Andhra Pradesh,15,2023-01-24,107,created,Tablet,null
+7333.6,Bangalore,4,2023-01-28,108,created,Headphones,null
+19652.63,Mumbai,5,2023-01-14,109,delivered,Headphones,null
+43587.56,Mumbai,18,2023-01-21,110,shipped,Headphones,null
+16800.68,Andhra Pradesh,17,2023-01-31,111,created,Phone,null
+17138.33,Bangalore,10,2023-01-02,112,delivered,Headphones,null
+17600.12,Chennai,4,2023-01-20,113,cancelled,Laptop,null
+30718.6,Mumbai,12,2023-01-08,114,created,Laptop,null
+29144.48,Bangalore,4,2023-01-17,115,cancelled,Laptop,null
+1295.51,Bangalore,10,2023-01-02,116,delivered,Tablet,null
+11103.48,Andhra Pradesh,20,2023-01-25,117,created,Headphones,null
+45434.85,Bangalore,3,2023-01-02,118,created,Tablet,null
+29393.11,Chennai,11,2023-01-16,119,cancelled,Tablet,null
+41443.25,Andhra Pradesh,8,2023-01-27,120,created,Headphones,null
+21438.63,Mumbai,9,2023-01-19,121,created,Headphones,null
+21103.81,Andhra Pradesh,5,2023-01-29,122,delivered,Laptop,null
+10585.75,Mumbai,7,2023-01-22,123,shipped,Tablet,null
+49591.03,Andhra Pradesh,9,2023-01-27,124,cancelled,Phone,null
+32843.29,Bangalore,10,2023-01-27,125,created,Tablet,null
+14660.9,Mumbai,14,2023-01-19,126,cancelled,Laptop,null
+37066.2,Mumbai,15,2023-01-10,127,shipped,Headphones,null
+28200.08,Chennai,3,2023-01-04,128,cancelled,Laptop,null
+7499.18,Chennai,11,2023-01-19,129,delivered,Laptop,null
+5923.49,Chennai,13,2023-01-27,130,cancelled,Phone,null
+40567.19,Andhra Pradesh,15,2023-01-18,131,created,Headphones,null
+25476.65,Andhra Pradesh,20,2023-01-11,132,created,Phone,null
+35431.95,Andhra Pradesh,13,2023-01-30,133,created,Phone,null
+34993.06,Andhra Pradesh,14,2023-01-16,134,cancelled,Phone,null
+17014.34,Mumbai,14,2023-01-30,135,shipped,Phone,null
+11968.32,Chennai,13,2023-01-10,136,shipped,Tablet,null
+48975.86,Chennai,1,2023-01-20,137,delivered,Laptop,null
+44026.74,Bangalore,7,2023-01-27,138,delivered,Tablet,null
+1211.67,Mumbai,4,2023-01-16,139,created,Headphones,null
+10760.11,Mumbai,2,2023-01-04,140,delivered,Phone,null
+11620.31,Andhra Pradesh,13,2023-01-07,141,cancelled,Phone,null
+16057.31,Bangalore,19,2023-01-31,142,shipped,Tablet,null
+30502.75,Mumbai,20,2023-01-22,143,cancelled,Phone,null
+48790.68,Andhra Pradesh,18,2023-01-31,144,created,Tablet,null
+26498.87,Mumbai,16,2023-01-12,145,cancelled,Laptop,null
+48151.79,Andhra Pradesh,14,2023-01-03,146,cancelled,Phone,null
+41454.78,Chennai,18,2023-01-20,147,created,Laptop,null
+40696.26,Mumbai,15,2023-01-30,148,cancelled,Tablet,null
+17988.19,Chennai,18,2023-01-15,149,created,Tablet,null
+22741.27,Mumbai,9,2023-01-22,150,shipped,Phone,null
+46473.69,Bangalore,20,2023-01-24,151,cancelled,Tablet,null
+46908.14,Bangalore,3,2023-01-19,152,shipped,Tablet,null
+1931.69,Chennai,1,2023-01-26,153,shipped,Phone,null
+7306.59,Mumbai,15,2023-01-04,154,cancelled,Tablet,null
+35152.57,Bangalore,13,2023-01-03,155,cancelled,Tablet,null
+3140.44,Andhra Pradesh,6,2023-01-08,156,delivered,Headphones,null
+22266.09,Bangalore,1,2023-01-16,157,delivered,Phone,null
+3884.24,Andhra Pradesh,18,2023-01-21,158,created,Headphones,null
+46110.71,Mumbai,10,2023-01-23,159,shipped,Phone,null
+20500.85,Chennai,20,2023-01-24,160,shipped,Headphones,null
+47993.42,Mumbai,15,2023-01-26,161,delivered,Headphones,null
+9793.62,Bangalore,10,2023-01-01,162,shipped,Tablet,null
+41099.55,Mumbai,12,2023-01-20,163,shipped,Phone,null
+40679.19,Chennai,12,2023-01-29,164,created,Laptop,null
+18370.97,Bangalore,1,2023-01-14,165,delivered,Phone,null
+15437.55,Andhra Pradesh,15,2023-01-22,166,cancelled,Headphones,null
+40220.18,Andhra Pradesh,5,2023-01-26,167,cancelled,Phone,null
+19276.43,Bangalore,1,2023-01-20,168,delivered,Phone,null
+3402.2,Bangalore,3,2023-01-28,169,cancelled,Headphones,null
+30026.74,Andhra Pradesh,2,2023-01-30,170,created,Tablet,null
+34238.52,Mumbai,15,2023-01-24,171,cancelled,Laptop,null
+7516.72,Andhra Pradesh,1,2023-01-11,172,delivered,Phone,null
+4219.99,Mumbai,19,2023-01-04,173,shipped,Phone,null
+48324.85,Bangalore,4,2023-01-31,174,created,Laptop,null
+26169.63,Mumbai,18,2023-01-24,175,shipped,Phone,null
+30705.32,Chennai,6,2023-01-26,176,cancelled,Laptop,null
+14727.12,Bangalore,4,2023-01-30,177,cancelled,Phone,null
+4757.96,Bangalore,13,2023-01-18,178,created,Laptop,null
+37276.87,Chennai,8,2023-01-13,179,shipped,Phone,null
+48161.85,Chennai,8,2023-01-28,180,cancelled,Phone,null
+42205.63,Andhra Pradesh,13,2023-01-23,181,created,Laptop,null
+44619.44,Chennai,5,2023-01-09,182,created,Laptop,null
+42803.84,Mumbai,4,2023-01-03,183,shipped,Tablet,null
+13483.43,Mumbai,16,2023-01-14,184,delivered,Laptop,null
+13675.8,Bangalore,7,2023-01-14,185,created,Laptop,null
+6940.21,Chennai,5,2023-01-31,186,created,Laptop,null
+42597.95,Bangalore,12,2023-01-28,187,delivered,Headphones,null
+17401.97,Mumbai,17,2023-01-30,188,shipped,Tablet,null
+13653.97,Andhra Pradesh,3,2023-01-27,189,cancelled,Laptop,null
+6210.64,Mumbai,19,2023-01-28,190,delivered,Laptop,null
+1244.2,Andhra Pradesh,18,2023-01-29,191,delivered,Phone,null
+15476.6,Chennai,7,2023-01-06,192,cancelled,Laptop,null
+49646.48,Mumbai,6,2023-01-13,193,shipped,Laptop,null
+33678.88,Mumbai,12,2023-01-13,194,shipped,Phone,null
+21246.72,Mumbai,10,2023-01-02,195,created,Headphones,null
+15055.38,Bangalore,15,2023-01-20,196,delivered,Tablet,null
+28550.43,Andhra Pradesh,17,2023-01-27,197,delivered,Headphones,null
+8497.86,Andhra Pradesh,5,2023-01-12,198,cancelled,Laptop,null
+45883.07,Chennai,12,2023-01-06,199,cancelled,Laptop,null
+2085.22,Mumbai,16,2023-01-28,200,shipped,Headphones,null
+25488.38,Bangalore,19,2023-01-13,201,created,Tablet,null
+11553.9,Mumbai,1,2023-01-05,202,delivered,Laptop,null
+29331.2,Mumbai,12,2023-01-13,203,delivered,Phone,null
+10954,Andhra Pradesh,18,2023-01-13,204,created,Laptop,null
+36910.88,Mumbai,10,2023-01-07,205,cancelled,Phone,null
+48199.45,Bangalore,19,2023-01-22,206,cancelled,Tablet,null
+17839.53,Bangalore,1,2023-01-13,207,cancelled,Headphones,null
+14646.44,Mumbai,15,2023-01-05,208,delivered,Laptop,null
+7781.68,Chennai,20,2023-01-09,209,created,Headphones,null
+3957.03,Andhra Pradesh,2,2023-01-09,210,created,Tablet,null
+3386.34,Andhra Pradesh,7,2023-01-12,211,delivered,Laptop,null
+42167.37,Chennai,11,2023-01-15,212,delivered,Tablet,null
+33370.78,Andhra Pradesh,13,2023-01-10,213,created,Headphones,null
+31699.79,Bangalore,19,2023-01-08,214,shipped,Phone,null
+30801.38,Mumbai,10,2023-01-01,215,shipped,Tablet,null
+12710.79,Bangalore,6,2023-01-10,216,shipped,Phone,null
+29861.26,Mumbai,14,2023-01-12,217,cancelled,Laptop,null
+45904.79,Andhra Pradesh,1,2023-01-27,218,created,Phone,null
+40332.79,Andhra Pradesh,8,2023-01-25,219,created,Phone,null
+49404.74,Chennai,10,2023-01-31,220,cancelled,Laptop,null
+42646.19,Mumbai,4,2023-01-24,221,cancelled,Tablet,null
+23047.51,Andhra Pradesh,18,2023-01-04,222,delivered,Tablet,null
+37190.18,Bangalore,18,2023-01-03,223,delivered,Phone,null
+21713.76,Andhra Pradesh,9,2023-01-05,224,delivered,Tablet,null
+41140.18,Mumbai,1,2023-01-29,225,shipped,Laptop,null
+9957.93,Bangalore,18,2023-01-09,226,shipped,Headphones,null
+47336.53,Mumbai,13,2023-01-29,227,shipped,Headphones,null
+8365.86,Bangalore,14,2023-01-24,228,shipped,Headphones,null
+12292.85,Bangalore,4,2023-01-15,229,created,Phone,null
+39237.61,Mumbai,17,2023-01-24,230,created,Tablet,null
+44537.47,Bangalore,10,2023-01-14,231,shipped,Phone,null
+26369.26,Andhra Pradesh,12,2023-01-14,232,delivered,Laptop,null
+9236.34,Chennai,11,2023-01-13,233,cancelled,Phone,null
+24717.07,Chennai,14,2023-01-18,234,created,Phone,null
+26033.96,Andhra Pradesh,13,2023-01-14,235,delivered,Headphones,null
+14465.53,Mumbai,20,2023-01-11,236,delivered,Headphones,null
+43207.57,Bangalore,9,2023-01-18,237,cancelled,Laptop,null
+44517.81,Andhra Pradesh,3,2023-01-17,238,delivered,Phone,null
+18528.69,Mumbai,4,2023-01-19,239,created,Tablet,null
+40047.16,Chennai,17,2023-01-12,240,cancelled,Headphones,null
+6712.38,Chennai,9,2023-01-13,241,cancelled,Tablet,null
+11432.38,Bangalore,14,2023-01-20,242,created,Tablet,null
+34500.91,Andhra Pradesh,3,2023-01-21,243,delivered,Headphones,null
+36210.67,Bangalore,8,2023-01-18,244,shipped,Headphones,null
+33437.85,Mumbai,2,2023-01-22,245,created,Headphones,null
+44981.89,Bangalore,6,2023-01-07,246,cancelled,Laptop,null
+8325.7,Andhra Pradesh,7,2023-01-22,247,shipped,Phone,null
+14551.98,Andhra Pradesh,10,2023-01-06,248,cancelled,Laptop,null
+38651.54,Mumbai,14,2023-01-09,249,created,Laptop,null
+10662.21,Mumbai,7,2023-01-11,250,delivered,Tablet,null
+38582.81,Andhra Pradesh,8,2023-01-15,251,cancelled,Headphones,null
+48987.39,Mumbai,19,2023-01-28,252,shipped,Headphones,null
+5397,Bangalore,5,2023-01-16,253,created,Laptop,null
+7860.67,Mumbai,12,2023-01-10,254,shipped,Laptop,null
+35012.13,Chennai,7,2023-01-10,255,delivered,Tablet,null
+768.85,Chennai,20,2023-01-17,256,shipped,Tablet,null
+33441.47,Chennai,1,2023-01-24,257,shipped,Tablet,null
+37511.71,Bangalore,19,2023-01-10,258,delivered,Tablet,null
+22948.44,Bangalore,4,2023-01-29,259,created,Headphones,null
+27554.19,Mumbai,17,2023-01-02,260,shipped,Laptop,null
+17228.23,Chennai,5,2023-01-17,261,delivered,Laptop,null
+42745.5,Mumbai,5,2023-01-19,262,created,Headphones,null
+42878.81,Mumbai,18,2023-01-25,263,delivered,Tablet,null
+1767.92,Chennai,5,2023-01-21,264,cancelled,Tablet,null
+11261.79,Andhra Pradesh,4,2023-01-11,265,shipped,Tablet,null
+46321.64,Mumbai,20,2023-01-28,266,created,Headphones,null
+8070.97,Chennai,10,2023-01-24,267,shipped,Headphones,null
+25102.26,Mumbai,4,2023-01-02,268,cancelled,Headphones,null
+14592.15,Bangalore,12,2023-01-21,269,cancelled,Laptop,null
+12434.41,Mumbai,13,2023-01-03,270,shipped,Tablet,null
+25291.39,Andhra Pradesh,18,2023-01-08,271,cancelled,Tablet,null
+23581.97,Bangalore,8,2023-01-17,272,shipped,Phone,null
+27463.76,Chennai,10,2023-01-27,273,shipped,Tablet,null
+19396.98,Mumbai,13,2023-01-21,274,shipped,Headphones,null
+39858.29,Chennai,1,2023-01-14,275,created,Phone,null
+26162.22,Mumbai,19,2023-01-28,276,created,Laptop,null
+25296.75,Chennai,9,2023-01-28,277,cancelled,Laptop,null
+22722.26,Andhra Pradesh,20,2023-01-22,278,cancelled,Headphones,null
+35472.58,Mumbai,6,2023-01-11,279,cancelled,Tablet,null
+3086.66,Bangalore,10,2023-01-28,280,shipped,Phone,null
+31065.92,Andhra Pradesh,14,2023-01-24,281,created,Headphones,null
+46357.73,Andhra Pradesh,15,2023-01-18,282,shipped,Phone,null
+29068.62,Mumbai,8,2023-01-06,283,created,Headphones,null
+23031.96,Bangalore,6,2023-01-28,284,created,Tablet,null
+31752.1,Bangalore,15,2023-01-26,285,cancelled,Tablet,null
+31664.4,Andhra Pradesh,7,2023-01-14,286,cancelled,Phone,null
+24359.82,Andhra Pradesh,19,2023-01-13,287,delivered,Tablet,null
+21621.97,Bangalore,4,2023-01-17,288,cancelled,Tablet,null
+34643.32,Chennai,18,2023-01-23,289,shipped,Headphones,null
+4824.33,Mumbai,11,2023-01-13,290,created,Headphones,null
+2924.22,Mumbai,3,2023-01-06,291,shipped,Headphones,null
+37858.21,Chennai,11,2023-01-10,292,created,Tablet,null
+28508.73,Bangalore,16,2023-01-25,293,shipped,Phone,null
+13651.18,Andhra Pradesh,12,2023-01-03,294,delivered,Tablet,null
+7589.58,Bangalore,2,2023-01-23,295,cancelled,Headphones,null
+21619.13,Mumbai,18,2023-01-03,296,shipped,Laptop,null
+14418.79,Mumbai,11,2023-01-05,297,delivered,Laptop,null
+34538.8,Chennai,13,2023-01-30,298,cancelled,Tablet,null
+12808.75,Chennai,14,2023-01-09,299,created,Headphones,null
+48922.93,Mumbai,13,2023-01-25,300,delivered,Phone,null
+27397.04,Chennai,20,2023-01-18,301,delivered,Headphones,null
+42787.21,Mumbai,2,2023-01-20,302,created,Tablet,null
+44518.51,Bangalore,1,2023-01-19,303,created,Laptop,null
+12573.84,Bangalore,1,2023-01-03,304,cancelled,Headphones,null
+12213.25,Mumbai,13,2023-01-10,305,cancelled,Tablet,null
+33909.23,Mumbai,9,2023-01-11,306,cancelled,Laptop,null
+38757.05,Bangalore,15,2023-01-11,307,delivered,Laptop,null
+35112.21,Andhra Pradesh,7,2023-01-18,308,cancelled,Phone,null
+18282.84,Mumbai,9,2023-01-31,309,delivered,Laptop,null
+20276.29,Bangalore,20,2023-01-19,310,delivered,Laptop,null
+1926.19,Chennai,16,2023-01-25,311,delivered,Headphones,null
+36539.74,Andhra Pradesh,1,2023-01-22,312,created,Laptop,null
+29196.24,Mumbai,4,2023-01-25,313,shipped,Laptop,null
+48749.6,Andhra Pradesh,3,2023-01-03,314,created,Tablet,null
+31889.2,Andhra Pradesh,3,2023-01-02,315,delivered,Headphones,null
+43153.68,Chennai,10,2023-01-13,316,cancelled,Phone,null
+47941.67,Bangalore,13,2023-01-23,317,shipped,Tablet,null
+2546.06,Chennai,8,2023-01-31,318,cancelled,Headphones,null
+28533.79,Bangalore,14,2023-01-27,319,shipped,Headphones,null
+25572.31,Andhra Pradesh,11,2023-01-20,320,shipped,Headphones,null
+1150.64,Bangalore,7,2023-01-07,321,delivered,Phone,null
+24945.94,Chennai,13,2023-01-13,322,delivered,Laptop,null
+14210.54,Chennai,9,2023-01-26,323,shipped,Tablet,null
+38561.3,Mumbai,11,2023-01-18,324,cancelled,Headphones,null
+42552.66,Chennai,10,2023-01-23,325,delivered,Phone,null
+48670.75,Chennai,15,2023-01-22,326,delivered,Phone,null
+10181.7,Mumbai,16,2023-01-30,327,delivered,Phone,null
+45104.23,Chennai,17,2023-01-27,328,created,Headphones,null
+11150.77,Bangalore,6,2023-01-20,329,delivered,Phone,null
+12952.03,Mumbai,11,2023-01-26,330,created,Headphones,null
+15741.75,Bangalore,12,2023-01-17,331,cancelled,Phone,null
+47767.93,Mumbai,12,2023-01-27,332,shipped,Laptop,null
+37953.32,Bangalore,11,2023-01-07,333,shipped,Laptop,null
+29008.12,Andhra Pradesh,13,2023-01-13,334,delivered,Headphones,null
+29488.07,Mumbai,16,2023-01-25,335,shipped,Phone,null
+9935.55,Andhra Pradesh,8,2023-01-19,336,cancelled,Headphones,null
+31501.66,Chennai,17,2023-01-14,337,created,Laptop,null
+19468.24,Mumbai,4,2023-01-24,338,shipped,Headphones,null
+24231.98,Chennai,10,2023-01-18,339,created,Laptop,null
+6504.72,Mumbai,14,2023-01-05,340,cancelled,Phone,null
+4498.52,Chennai,16,2023-01-04,341,cancelled,Phone,null
+41224.14,Andhra Pradesh,3,2023-01-16,342,shipped,Tablet,null
+1315.19,Andhra Pradesh,17,2023-01-07,343,shipped,Phone,null
+32783.52,Chennai,5,2023-01-03,344,shipped,Tablet,null
+42641.83,Bangalore,19,2023-01-29,345,shipped,Headphones,null
+33469.32,Andhra Pradesh,8,2023-01-27,346,cancelled,Laptop,null
+5338.28,Bangalore,2,2023-01-20,347,delivered,Headphones,null
+23074.94,Andhra Pradesh,2,2023-01-01,348,cancelled,Tablet,null
+11063.72,Andhra Pradesh,18,2023-01-22,349,cancelled,Headphones,null
+16826.77,Bangalore,4,2023-01-11,350,shipped,Phone,null
+33825.29,Chennai,9,2023-01-25,351,cancelled,Laptop,null
+47517.86,Chennai,2,2023-01-03,352,shipped,Tablet,null
+47033.11,Chennai,13,2023-01-31,353,created,Headphones,null
+8665.29,Chennai,5,2023-01-15,354,delivered,Laptop,null
+16702.49,Bangalore,18,2023-01-24,355,delivered,Tablet,null
+36779.87,Chennai,2,2023-01-01,356,cancelled,Phone,null
+44011.24,Mumbai,5,2023-01-09,357,delivered,Phone,null
+12236.29,Bangalore,15,2023-01-01,358,cancelled,Phone,null
+8968.06,Chennai,4,2023-01-08,359,delivered,Laptop,null
+43849.26,Chennai,12,2023-01-18,360,created,Laptop,null
+42818.37,Bangalore,4,2023-01-06,361,created,Tablet,null
+39004.33,Mumbai,6,2023-01-17,362,delivered,Tablet,null
+36431.66,Mumbai,20,2023-01-16,363,created,Tablet,null
+40932.13,Bangalore,2,2023-01-19,364,cancelled,Phone,null
+26361.78,Chennai,12,2023-01-06,365,cancelled,Tablet,null
+26019.52,Chennai,7,2023-01-07,366,created,Laptop,null
+49662.47,Chennai,5,2023-01-11,367,delivered,Phone,null
+41013.54,Andhra Pradesh,9,2023-01-21,368,shipped,Phone,null
+34520.43,Mumbai,4,2023-01-27,369,shipped,Headphones,null
+46245.07,Chennai,4,2023-01-23,370,shipped,Phone,null
+1586.4,Bangalore,20,2023-01-04,371,delivered,Phone,null
+3238.89,Mumbai,18,2023-01-31,372,cancelled,Headphones,null
+47056.48,Mumbai,19,2023-01-14,373,created,Laptop,null
+25471.61,Mumbai,12,2023-01-07,374,shipped,Headphones,null
+32137.38,Mumbai,13,2023-01-29,375,created,Laptop,null
+22430.03,Mumbai,18,2023-01-31,376,shipped,Phone,null
+1346.93,Chennai,4,2023-01-08,377,delivered,Laptop,null
+25555.55,Chennai,20,2023-01-16,378,created,Laptop,null
+19880.8,Chennai,17,2023-01-05,379,cancelled,Laptop,null
+25190.55,Mumbai,8,2023-01-03,380,shipped,Tablet,null
+23518.56,Chennai,7,2023-01-05,381,delivered,Tablet,null
+29785.49,Mumbai,17,2023-01-15,382,shipped,Phone,null
+29795.03,Andhra Pradesh,11,2023-01-28,383,created,Tablet,null
+30236.35,Chennai,3,2023-01-04,384,shipped,Phone,null
+35778.64,Bangalore,14,2023-01-08,385,delivered,Phone,null
+39730.93,Chennai,1,2023-01-15,386,cancelled,Tablet,null
+18752.39,Bangalore,12,2023-01-27,387,delivered,Headphones,null
+22778.33,Mumbai,1,2023-01-19,388,created,Phone,null
+1448.74,Bangalore,4,2023-01-15,389,delivered,Headphones,null
+19274.41,Andhra Pradesh,19,2023-01-06,390,delivered,Phone,null
+37612.69,Chennai,10,2023-01-10,391,cancelled,Laptop,null
+36471.08,Bangalore,2,2023-01-07,392,delivered,Tablet,null
+44598.1,Andhra Pradesh,8,2023-01-30,393,delivered,Headphones,null
+20231.5,Bangalore,9,2023-01-19,394,shipped,Headphones,null
+6906.51,Bangalore,19,2023-01-18,395,created,Phone,null
+43290.21,Chennai,11,2023-01-13,396,created,Laptop,null
+41564.87,Andhra Pradesh,17,2023-01-06,397,delivered,Tablet,null
+5935.32,Mumbai,19,2023-01-17,398,shipped,Phone,null
+45742.94,Chennai,9,2023-01-15,399,delivered,Phone,null
+32363.19,Mumbai,11,2023-01-25,400,cancelled,Phone,null
+30971.4,Andhra Pradesh,14,2023-01-02,401,shipped,Laptop,null
+31740.69,Andhra Pradesh,7,2023-01-28,402,cancelled,Laptop,null
+3327.71,Bangalore,19,2023-01-29,403,shipped,Laptop,null
+5960.92,Andhra Pradesh,16,2023-01-17,404,shipped,Headphones,null
+33450.95,Mumbai,13,2023-01-12,405,cancelled,Laptop,null
+26103.2,Bangalore,8,2023-01-08,406,cancelled,Headphones,null
+43051.89,Mumbai,20,2023-01-25,407,created,Phone,null
+6824.99,Andhra Pradesh,6,2023-01-18,408,cancelled,Laptop,null
+46380.2,Andhra Pradesh,19,2023-01-17,409,shipped,Laptop,null
+16049.83,Andhra Pradesh,8,2023-01-19,410,delivered,Tablet,null
+878.14,Mumbai,15,2023-01-24,411,shipped,Phone,null
+47366.16,Mumbai,5,2023-01-05,412,delivered,Headphones,null
+47870.62,Andhra Pradesh,16,2023-01-08,413,shipped,Phone,null
+35321.08,Chennai,12,2023-01-04,414,shipped,Headphones,null
+6847.13,Bangalore,3,2023-01-18,415,delivered,Tablet,null
+31969.16,Bangalore,5,2023-01-06,416,created,Laptop,null
+13721.13,Bangalore,3,2023-01-24,417,shipped,Headphones,null
+11147.35,Andhra Pradesh,16,2023-01-12,418,shipped,Phone,null
+24244.93,Mumbai,5,2023-01-06,419,delivered,Laptop,null
+46020.71,Mumbai,11,2023-01-20,420,shipped,Phone,null
+9997.39,Andhra Pradesh,3,2023-01-27,421,created,Tablet,null
+39903.57,Andhra Pradesh,14,2023-01-30,422,cancelled,Laptop,null
+38701.4,Mumbai,5,2023-01-15,423,created,Headphones,null
+12926.28,Bangalore,9,2023-01-03,424,shipped,Laptop,null
+42609.09,Andhra Pradesh,19,2023-01-07,425,shipped,Phone,null
+11302.18,Andhra Pradesh,3,2023-01-21,426,cancelled,Laptop,null
+49607.61,Bangalore,20,2023-01-15,427,shipped,Tablet,null
+16770.59,Chennai,15,2023-01-24,428,cancelled,Headphones,null
+38802.08,Mumbai,20,2023-01-31,429,cancelled,Headphones,null
+37226.58,Bangalore,15,2023-01-20,430,shipped,Phone,null
+8887.22,Bangalore,9,2023-01-29,431,created,Phone,null
+19953.92,Mumbai,13,2023-01-04,432,created,Laptop,null
+49571.36,Chennai,1,2023-01-25,433,cancelled,Headphones,null
+5597.66,Andhra Pradesh,2,2023-01-03,434,cancelled,Laptop,null
+10284.36,Chennai,1,2023-01-18,435,shipped,Headphones,null
+44774.61,Mumbai,2,2023-01-21,436,cancelled,Headphones,null
+29450.76,Bangalore,13,2023-01-14,437,cancelled,Tablet,null
+19251.65,Bangalore,19,2023-01-15,438,created,Phone,null
+45331.89,Chennai,1,2023-01-21,439,delivered,Phone,null
+29854.33,Chennai,10,2023-01-07,440,cancelled,Headphones,null
+15991.8,Mumbai,4,2023-01-03,441,cancelled,Headphones,null
+39017.49,Bangalore,16,2023-01-18,442,cancelled,Tablet,null
+14400.7,Chennai,9,2023-01-25,443,cancelled,Headphones,null
+38159.35,Andhra Pradesh,7,2023-01-18,444,cancelled,Laptop,null
+47318.65,Mumbai,18,2023-01-19,445,shipped,Laptop,null
+46109.46,Bangalore,20,2023-01-22,446,created,Headphones,null
+25193.81,Andhra Pradesh,10,2023-01-16,447,delivered,Headphones,null
+3876.48,Bangalore,10,2023-01-22,448,cancelled,Headphones,null
+22090.88,Chennai,4,2023-01-22,449,delivered,Headphones,null
+1940.98,Chennai,12,2023-01-11,450,created,Headphones,null
+5867.52,Andhra Pradesh,7,2023-01-14,451,delivered,Phone,null
+42170.29,Mumbai,5,2023-01-02,452,cancelled,Headphones,null
+17192.09,Chennai,15,2023-01-17,453,shipped,Tablet,null
+40424.57,Andhra Pradesh,10,2023-01-22,454,shipped,Tablet,null
+19453.36,Mumbai,3,2023-01-12,455,created,Laptop,null
+43623.9,Andhra Pradesh,15,2023-01-11,456,shipped,Laptop,null
+25076.71,Bangalore,11,2023-01-26,457,created,Tablet,null
+47533.57,Andhra Pradesh,14,2023-01-19,458,cancelled,Laptop,null
+8035.84,Andhra Pradesh,3,2023-01-20,459,created,Headphones,null
+42870.35,Bangalore,3,2023-01-11,460,cancelled,Headphones,null
+27318.51,Mumbai,20,2023-01-13,461,delivered,Headphones,null
+23245.7,Mumbai,18,2023-01-25,462,shipped,Headphones,null
+18704.18,Andhra Pradesh,14,2023-01-18,463,created,Headphones,null
+34129.53,Mumbai,6,2023-01-22,464,delivered,Headphones,null
+43795.94,Bangalore,14,2023-01-02,465,delivered,Tablet,null
+22850.21,Andhra Pradesh,3,2023-01-06,466,delivered,Tablet,null
+9356.96,Chennai,2,2023-01-29,467,shipped,Laptop,null
+7884.22,Chennai,12,2023-01-28,468,shipped,Tablet,null
+44193.67,Andhra Pradesh,14,2023-01-10,469,created,Phone,null
+24030.11,Mumbai,13,2023-01-03,470,delivered,Tablet,null
+19528.99,Bangalore,12,2023-01-17,471,cancelled,Phone,null
+47721.67,Bangalore,15,2023-01-11,472,cancelled,Laptop,null
+21633.17,Chennai,20,2023-01-21,473,delivered,Tablet,null
+48887.22,Bangalore,7,2023-01-19,474,delivered,Laptop,null
+46029.34,Andhra Pradesh,2,2023-01-25,475,shipped,Phone,null
+18613.17,Andhra Pradesh,9,2023-01-17,476,created,Laptop,null
+30854.73,Bangalore,5,2023-01-26,477,delivered,Laptop,null
+7701.39,Mumbai,1,2023-01-20,478,delivered,Tablet,null
+48796.07,Mumbai,16,2023-01-06,479,created,Tablet,null
+40985.96,Bangalore,11,2023-01-25,480,delivered,Tablet,null
+6110.93,Mumbai,17,2023-01-29,481,shipped,Laptop,null
+36806.17,Andhra Pradesh,14,2023-01-06,482,cancelled,Tablet,null
+8446.08,Mumbai,16,2023-01-28,483,shipped,Phone,null
+35887.12,Mumbai,3,2023-01-14,484,cancelled,Headphones,null
+24687.38,Andhra Pradesh,17,2023-01-06,485,delivered,Laptop,null
+34884.59,Mumbai,5,2023-01-17,486,created,Laptop,null
+15883.8,Mumbai,16,2023-01-15,487,delivered,Tablet,null
+13907.66,Chennai,20,2023-01-05,488,created,Phone,null
+26928.85,Andhra Pradesh,18,2023-01-29,489,cancelled,Tablet,null
+2597.01,Andhra Pradesh,19,2023-01-12,490,delivered,Laptop,null
+29437.9,Chennai,4,2023-01-09,491,cancelled,Phone,null
+18203.49,Mumbai,20,2023-01-24,492,cancelled,Laptop,null
+46547.55,Bangalore,11,2023-01-28,493,shipped,Headphones,null
+46287.96,Chennai,4,2023-01-19,494,shipped,Phone,null
+587.39,Bangalore,17,2023-01-12,495,created,Headphones,null
+47962.63,Andhra Pradesh,7,2023-01-08,496,created,Laptop,null
+43815.89,Mumbai,9,2023-01-17,497,cancelled,Headphones,null
+41284.38,Mumbai,9,2023-01-16,498,cancelled,Tablet,null
+1940.33,Andhra Pradesh,11,2023-01-30,499,shipped,Phone,null
+9412.33,Andhra Pradesh,1,2023-01-16,500,delivered,Headphones,null
+32207.94,Andhra Pradesh,3,2023-01-23,501,delivered,Laptop,null
+3617.47,Mumbai,15,2023-01-12,502,delivered,Headphones,null
+37287.44,Bangalore,9,2023-01-02,503,created,Headphones,null
+48704.28,Chennai,2,2023-01-02,504,delivered,Phone,null
+38149.65,Bangalore,10,2023-01-16,505,created,Headphones,null
+21083.74,Andhra Pradesh,19,2023-01-27,506,cancelled,Headphones,null
+48439.67,Mumbai,3,2023-01-01,507,delivered,Tablet,null
+1185.8,Andhra Pradesh,7,2023-01-04,508,cancelled,Headphones,null
+29916.6,Bangalore,4,2023-01-20,509,delivered,Phone,null
+2262.9,Andhra Pradesh,1,2023-01-11,510,created,Tablet,null
+22495.21,Mumbai,15,2023-01-19,511,cancelled,Headphones,null
+3002.52,Bangalore,15,2023-01-29,512,created,Phone,null
+24768.52,Andhra Pradesh,11,2023-01-22,513,shipped,Headphones,null
+17543.32,Bangalore,4,2023-01-28,514,created,Phone,null
+6282.63,Bangalore,6,2023-01-07,515,shipped,Laptop,null
+4430.98,Mumbai,12,2023-01-01,516,cancelled,Phone,null
+33003.9,Bangalore,2,2023-01-14,517,shipped,Headphones,null
+3939.88,Andhra Pradesh,2,2023-01-10,518,cancelled,Laptop,null
+6194.64,Mumbai,12,2023-01-02,519,cancelled,Phone,null
+12346.44,Mumbai,6,2023-01-05,520,created,Tablet,null
+37678.4,Andhra Pradesh,12,2023-01-02,521,cancelled,Headphones,null
+30427.07,Mumbai,13,2023-01-21,522,cancelled,Tablet,null
+21100.9,Mumbai,1,2023-01-18,523,created,Laptop,null
+47613.17,Mumbai,16,2023-01-13,524,delivered,Tablet,null
+23338.16,Mumbai,12,2023-01-30,525,created,Tablet,null
+10232.68,Mumbai,19,2023-01-23,526,cancelled,Phone,null
+45594.7,Andhra Pradesh,11,2023-01-16,527,delivered,Phone,null
+27022.06,Andhra Pradesh,20,2023-01-29,528,shipped,Phone,null
+46124.89,Bangalore,4,2023-01-27,529,shipped,Tablet,null
+48548.06,Mumbai,1,2023-01-28,530,cancelled,Laptop,null
+48079.2,Mumbai,5,2023-01-28,531,cancelled,Laptop,null
+11757.28,Bangalore,17,2023-01-03,532,shipped,Tablet,null
+43663.89,Chennai,12,2023-01-21,533,shipped,Phone,null
+12774.51,Andhra Pradesh,2,2023-01-04,534,shipped,Phone,null
+39013.08,Bangalore,8,2023-01-05,535,created,Headphones,null
+22348.1,Bangalore,20,2023-01-08,536,cancelled,Headphones,null
+47332.25,Mumbai,3,2023-01-21,537,delivered,Laptop,null
+24887.69,Chennai,20,2023-01-13,538,cancelled,Phone,null
+21267.55,Bangalore,7,2023-01-07,539,shipped,Tablet,null
+1359.62,Chennai,2,2023-01-09,540,delivered,Laptop,null
+625.95,Andhra Pradesh,4,2023-01-02,541,delivered,Tablet,null
+3086.32,Bangalore,7,2023-01-10,542,created,Phone,null
+23535.97,Mumbai,4,2023-01-18,543,delivered,Laptop,null
+8102.49,Chennai,8,2023-01-17,544,delivered,Phone,null
+45351.46,Bangalore,20,2023-01-09,545,shipped,Headphones,null
+18260.39,Chennai,12,2023-01-22,546,created,Laptop,null
+36232.94,Chennai,7,2023-01-05,547,created,Laptop,null
+41146.74,Mumbai,16,2023-01-05,548,created,Tablet,null
+42598.9,Andhra Pradesh,3,2023-01-18,549,delivered,Tablet,null
+44124.37,Chennai,1,2023-01-01,550,created,Laptop,null
+24868.49,Chennai,15,2023-01-03,551,created,Headphones,null
+13760.26,Bangalore,2,2023-01-12,552,shipped,Headphones,null
+18260.09,Bangalore,5,2023-01-05,553,cancelled,Laptop,null
+35913.29,Mumbai,3,2023-01-20,554,cancelled,Laptop,null
+46712.61,Bangalore,20,2023-01-26,555,created,Phone,null
+20598.65,Chennai,2,2023-01-19,556,shipped,Headphones,null
+3595.26,Mumbai,9,2023-01-22,557,shipped,Headphones,null
+45848.4,Bangalore,9,2023-01-13,558,created,Headphones,null
+36847.07,Bangalore,6,2023-01-31,559,delivered,Laptop,null
+47283.18,Bangalore,13,2023-01-14,560,shipped,Laptop,null
+47136.76,Andhra Pradesh,9,2023-01-21,561,delivered,Phone,null
+19218.89,Chennai,18,2023-01-13,562,created,Phone,null
+27674.79,Bangalore,13,2023-01-08,563,delivered,Headphones,null
+5003.2,Andhra Pradesh,15,2023-01-04,564,cancelled,Tablet,null
+23994.67,Andhra Pradesh,13,2023-01-04,565,created,Laptop,null
+28749.05,Chennai,17,2023-01-04,566,shipped,Tablet,null
+45244.61,Bangalore,11,2023-01-08,567,shipped,Phone,null
+32631.91,Andhra Pradesh,3,2023-01-19,568,created,Phone,null
+24116.3,Mumbai,11,2023-01-17,569,cancelled,Laptop,null
+48460.74,Andhra Pradesh,12,2023-01-27,570,delivered,Tablet,null
+21279.84,Andhra Pradesh,20,2023-01-26,571,created,Laptop,null
+36146.33,Bangalore,18,2023-01-21,572,cancelled,Headphones,null
+2837.14,Bangalore,4,2023-01-21,573,shipped,Headphones,null
+24944.45,Mumbai,11,2023-01-21,574,delivered,Phone,null
+27583.62,Bangalore,2,2023-01-10,575,shipped,Headphones,null
+40911.13,Mumbai,16,2023-01-21,576,created,Tablet,null
+5375.56,Andhra Pradesh,12,2023-01-27,577,cancelled,Laptop,null
+30078.93,Mumbai,8,2023-01-12,578,shipped,Phone,null
+11606.98,Mumbai,16,2023-01-12,579,cancelled,Phone,null
+41578.56,Chennai,19,2023-01-12,580,shipped,Laptop,null
+33557.35,Mumbai,1,2023-01-18,581,shipped,Tablet,null
+29854.67,Mumbai,14,2023-01-22,582,shipped,Phone,null
+35017.68,Bangalore,6,2023-01-02,583,cancelled,Tablet,null
+44364.39,Mumbai,6,2023-01-29,584,delivered,Tablet,null
+22455.12,Bangalore,9,2023-01-05,585,delivered,Headphones,null
+14773.89,Andhra Pradesh,14,2023-01-06,586,cancelled,Headphones,null
+40970.92,Andhra Pradesh,20,2023-01-24,587,created,Headphones,null
+13740.01,Chennai,15,2023-01-08,588,delivered,Phone,null
+17825.32,Bangalore,20,2023-01-31,589,delivered,Headphones,null
+25716.41,Bangalore,5,2023-01-05,590,delivered,Phone,null
+8662.77,Andhra Pradesh,6,2023-01-28,591,cancelled,Phone,null
+29786.35,Andhra Pradesh,5,2023-01-19,592,shipped,Headphones,null
+31438.97,Mumbai,4,2023-01-14,593,created,Headphones,null
+7070.79,Chennai,12,2023-01-04,594,delivered,Phone,null
+34036.44,Mumbai,13,2023-01-29,595,cancelled,Headphones,null
+17616.46,Andhra Pradesh,9,2023-01-06,596,cancelled,Headphones,null
+4656.13,Mumbai,3,2023-01-23,597,shipped,Tablet,null
+40494.22,Mumbai,19,2023-01-13,598,shipped,Tablet,null
+34135.88,Andhra Pradesh,14,2023-01-08,599,cancelled,Phone,null
+1274.1,Bangalore,10,2023-01-08,600,created,Laptop,null
+44206.46,Andhra Pradesh,6,2023-01-02,601,cancelled,Headphones,null
+28505.26,Chennai,10,2023-01-30,602,created,Phone,null
+6712.41,Andhra Pradesh,12,2023-01-21,603,delivered,Laptop,null
+39217.83,Chennai,7,2023-01-08,604,cancelled,Laptop,null
+16811.59,Chennai,8,2023-01-21,605,shipped,Laptop,null
+38056.76,Chennai,13,2023-01-10,606,cancelled,Headphones,null
+46823.21,Bangalore,2,2023-01-25,607,cancelled,Laptop,null
+43573.66,Andhra Pradesh,16,2023-01-21,608,delivered,Headphones,null
+22757.76,Chennai,4,2023-01-11,609,created,Headphones,null
+4098.82,Andhra Pradesh,16,2023-01-17,610,cancelled,Laptop,null
+41248.46,Andhra Pradesh,18,2023-01-09,611,created,Laptop,null
+18831.15,Chennai,10,2023-01-04,612,delivered,Tablet,null
+14510.97,Chennai,7,2023-01-10,613,created,Headphones,null
+32738.51,Andhra Pradesh,17,2023-01-13,614,created,Laptop,null
+48765.13,Andhra Pradesh,4,2023-01-06,615,delivered,Headphones,null
+31416.93,Mumbai,3,2023-01-06,616,delivered,Tablet,null
+35903.69,Bangalore,13,2023-01-04,617,delivered,Tablet,null
+49493.09,Chennai,14,2023-01-03,618,cancelled,Tablet,null
+7075.83,Andhra Pradesh,13,2023-01-08,619,delivered,Headphones,null
+14416.31,Bangalore,2,2023-01-02,620,shipped,Tablet,null
+45785.22,Andhra Pradesh,16,2023-01-27,621,created,Tablet,null
+7476.9,Chennai,10,2023-01-13,622,created,Laptop,null
+13579.16,Bangalore,9,2023-01-22,623,created,Tablet,null
+17857.45,Bangalore,14,2023-01-24,624,created,Tablet,null
+44146.66,Mumbai,18,2023-01-06,625,delivered,Phone,null
+40848.55,Mumbai,18,2023-01-02,626,shipped,Phone,null
+44052.67,Mumbai,12,2023-01-10,627,created,Headphones,null
+48467.1,Andhra Pradesh,12,2023-01-27,628,shipped,Headphones,null
+48592.8,Chennai,16,2023-01-09,629,cancelled,Headphones,null
+31646.22,Mumbai,4,2023-01-25,630,shipped,Phone,null
+3341.46,Chennai,20,2023-01-23,631,shipped,Tablet,null
+1137.45,Mumbai,3,2023-01-15,632,cancelled,Tablet,null
+40968.83,Bangalore,20,2023-01-03,633,delivered,Phone,null
+20809.96,Bangalore,19,2023-01-01,634,cancelled,Tablet,null
+43898.89,Mumbai,7,2023-01-08,635,shipped,Laptop,null
+5886.84,Bangalore,8,2023-01-19,636,cancelled,Tablet,null
+10295.52,Chennai,4,2023-01-21,637,created,Tablet,null
+26572.21,Andhra Pradesh,9,2023-01-03,638,created,Laptop,null
+40604.19,Bangalore,18,2023-01-01,639,delivered,Laptop,null
+21107.85,Andhra Pradesh,10,2023-01-16,640,cancelled,Laptop,null
+5558.23,Mumbai,18,2023-01-09,641,shipped,Laptop,null
+21726.41,Mumbai,15,2023-01-01,642,delivered,Phone,null
+11305.95,Andhra Pradesh,16,2023-01-25,643,delivered,Phone,null
+19401.02,Chennai,14,2023-01-16,644,created,Phone,null
+41501.68,Mumbai,17,2023-01-27,645,cancelled,Laptop,null
+30613.55,Chennai,8,2023-01-11,646,cancelled,Headphones,null
+28679.46,Mumbai,12,2023-01-25,647,delivered,Phone,null
+18758.08,Andhra Pradesh,12,2023-01-16,648,shipped,Headphones,null
+4021.11,Bangalore,5,2023-01-03,649,delivered,Phone,null
+25755.07,Chennai,10,2023-01-30,650,cancelled,Tablet,null
+21721.25,Mumbai,18,2023-01-25,651,created,Phone,null
+31163.18,Andhra Pradesh,3,2023-01-04,652,shipped,Phone,null
+30405.35,Mumbai,18,2023-01-16,653,delivered,Phone,null
+30787.21,Chennai,5,2023-01-21,654,created,Tablet,null
+48969.27,Andhra Pradesh,12,2023-01-21,655,delivered,Laptop,null
+4135.6,Andhra Pradesh,14,2023-01-25,656,cancelled,Phone,null
+42484.73,Mumbai,7,2023-01-06,657,shipped,Phone,null
+35859.17,Chennai,14,2023-01-26,658,cancelled,Laptop,null
+29508.54,Chennai,2,2023-01-15,659,created,Tablet,null
+39919.65,Mumbai,6,2023-01-13,660,created,Laptop,null
+29101.59,Andhra Pradesh,15,2023-01-26,661,shipped,Tablet,null
+13036.25,Bangalore,8,2023-01-29,662,cancelled,Headphones,null
+31524.57,Mumbai,13,2023-01-13,663,delivered,Headphones,null
+38045.87,Andhra Pradesh,7,2023-01-04,664,delivered,Tablet,null
+17844.46,Andhra Pradesh,8,2023-01-23,665,created,Phone,null
+29484.32,Chennai,11,2023-01-15,666,cancelled,Laptop,null
+4582.04,Andhra Pradesh,9,2023-01-31,667,delivered,Headphones,null
+16759.93,Andhra Pradesh,11,2023-01-02,668,cancelled,Laptop,null
+1474.04,Bangalore,7,2023-01-02,669,shipped,Tablet,null
+8489.73,Chennai,17,2023-01-11,670,created,Phone,null
+42619.35,Andhra Pradesh,19,2023-01-02,671,delivered,Laptop,null
+12995.74,Mumbai,8,2023-01-13,672,shipped,Tablet,null
+23764.18,Andhra Pradesh,4,2023-01-18,673,created,Laptop,null
+24209.23,Mumbai,14,2023-01-15,674,delivered,Headphones,null
+36887.22,Andhra Pradesh,7,2023-01-17,675,created,Headphones,null
+9708.27,Chennai,19,2023-01-05,676,cancelled,Phone,null
+41447.28,Andhra Pradesh,12,2023-01-29,677,delivered,Tablet,null
+12480.76,Chennai,13,2023-01-18,678,created,Laptop,null
+39763.53,Bangalore,1,2023-01-03,679,cancelled,Headphones,null
+34622.33,Andhra Pradesh,5,2023-01-21,680,cancelled,Phone,null
+13556.75,Andhra Pradesh,13,2023-01-14,681,cancelled,Headphones,null
+27411.38,Bangalore,19,2023-01-02,682,delivered,Phone,null
+17871.52,Chennai,15,2023-01-07,683,cancelled,Tablet,null
+11137.06,Bangalore,3,2023-01-17,684,delivered,Laptop,null
+33594.8,Chennai,3,2023-01-09,685,cancelled,Tablet,null
+18132.87,Mumbai,8,2023-01-26,686,shipped,Laptop,null
+38678.13,Bangalore,9,2023-01-19,687,shipped,Headphones,null
+34077.4,Bangalore,5,2023-01-09,688,cancelled,Headphones,null
+14625.5,Mumbai,1,2023-01-07,689,shipped,Phone,null
+29765.52,Bangalore,20,2023-01-02,690,created,Laptop,null
+16062.93,Mumbai,3,2023-01-02,691,delivered,Tablet,null
+33861.84,Bangalore,18,2023-01-30,692,delivered,Phone,null
+15196.53,Andhra Pradesh,4,2023-01-22,693,cancelled,Tablet,null
+12873.07,Bangalore,15,2023-01-08,694,cancelled,Phone,null
+30231.64,Bangalore,20,2023-01-15,695,cancelled,Tablet,null
+37995.24,Bangalore,6,2023-01-18,696,delivered,Phone,null
+38118.5,Andhra Pradesh,15,2023-01-25,697,shipped,Headphones,null
+39472.81,Andhra Pradesh,4,2023-01-15,698,shipped,Phone,null
+45098.02,Chennai,2,2023-01-26,699,delivered,Headphones,null
+39185.19,Chennai,15,2023-01-12,700,cancelled,Laptop,null
+47454.46,Chennai,11,2023-01-04,701,created,Tablet,null
+39459.66,Andhra Pradesh,13,2023-01-19,702,delivered,Laptop,null
+9199.19,Chennai,9,2023-01-01,703,cancelled,Phone,null
+30137.81,Chennai,6,2023-01-02,704,delivered,Headphones,null
+11594.89,Bangalore,11,2023-01-06,705,cancelled,Phone,null
+38600.16,Mumbai,18,2023-01-26,706,delivered,Laptop,null
+17694.3,Bangalore,16,2023-01-09,707,created,Tablet,null
+49895.08,Mumbai,6,2023-01-13,708,shipped,Headphones,null
+36615.46,Mumbai,19,2023-01-20,709,delivered,Phone,null
+48567.76,Andhra Pradesh,6,2023-01-25,710,created,Phone,null
+22769.22,Andhra Pradesh,7,2023-01-06,711,cancelled,Phone,null
+27978.24,Mumbai,20,2023-01-04,712,shipped,Phone,null
+40310.68,Bangalore,13,2023-01-30,713,delivered,Laptop,null
+17004.61,Andhra Pradesh,4,2023-01-13,714,shipped,Tablet,null
+14936.37,Andhra Pradesh,5,2023-01-14,715,cancelled,Laptop,null
+25653.6,Mumbai,18,2023-01-21,716,delivered,Phone,null
+9368.71,Andhra Pradesh,11,2023-01-27,717,shipped,Tablet,null
+42448.93,Andhra Pradesh,13,2023-01-24,718,delivered,Headphones,null
+17832.43,Chennai,2,2023-01-28,719,created,Phone,null
+43738.63,Bangalore,15,2023-01-18,720,delivered,Laptop,null
+32199.78,Chennai,14,2023-01-28,721,cancelled,Phone,null
+5333.23,Mumbai,16,2023-01-25,722,shipped,Phone,null
+2913.22,Mumbai,17,2023-01-08,723,cancelled,Tablet,null
+1069.94,Andhra Pradesh,8,2023-01-27,724,shipped,Phone,null
+42183.69,Andhra Pradesh,1,2023-01-24,725,created,Phone,null
+6964.29,Bangalore,16,2023-01-08,726,created,Laptop,null
+36052.67,Mumbai,10,2023-01-29,727,delivered,Phone,null
+45812.35,Bangalore,4,2023-01-11,728,shipped,Headphones,null
+26668.75,Andhra Pradesh,18,2023-01-19,729,delivered,Headphones,null
+22756.66,Mumbai,17,2023-01-07,730,shipped,Tablet,null
+7428.24,Bangalore,1,2023-01-25,731,created,Tablet,null
+38559.69,Chennai,13,2023-01-28,732,delivered,Tablet,null
+6683.85,Chennai,18,2023-01-11,733,shipped,Laptop,null
+19982.54,Andhra Pradesh,18,2023-01-11,734,cancelled,Laptop,null
+29145.96,Mumbai,6,2023-01-11,735,cancelled,Laptop,null
+4172.03,Andhra Pradesh,1,2023-01-10,736,created,Laptop,null
+6437.14,Andhra Pradesh,2,2023-01-01,737,delivered,Laptop,null
+47748.99,Chennai,11,2023-01-27,738,cancelled,Laptop,null
+45151.12,Andhra Pradesh,4,2023-01-11,739,cancelled,Tablet,null
+13949.05,Chennai,16,2023-01-11,740,cancelled,Laptop,null
+35473.17,Bangalore,12,2023-01-03,741,delivered,Laptop,null
+4112.15,Andhra Pradesh,15,2023-01-06,742,cancelled,Headphones,null
+28807.14,Bangalore,9,2023-01-23,743,shipped,Headphones,null
+39944.88,Chennai,10,2023-01-25,744,delivered,Phone,null
+28826.09,Chennai,6,2023-01-10,745,created,Headphones,null
+27550.1,Bangalore,3,2023-01-19,746,cancelled,Laptop,null
+46726.11,Chennai,19,2023-01-21,747,created,Phone,null
+14194.66,Bangalore,13,2023-01-19,748,created,Laptop,null
+40658.67,Chennai,2,2023-01-19,749,delivered,Phone,null
+23036.06,Bangalore,16,2023-01-26,750,created,Laptop,null
+20123.71,Mumbai,19,2023-01-29,751,created,Phone,null
+42889.49,Chennai,5,2023-01-01,752,shipped,Headphones,null
+7347.4,Chennai,5,2023-01-27,753,shipped,Headphones,null
+31320.69,Andhra Pradesh,19,2023-01-28,754,cancelled,Laptop,null
+28596.72,Andhra Pradesh,10,2023-01-17,755,shipped,Tablet,null
+10543.7,Chennai,6,2023-01-31,756,created,Tablet,null
+7258.72,Andhra Pradesh,19,2023-01-13,757,shipped,Headphones,null
+4745.86,Mumbai,13,2023-01-25,758,cancelled,Tablet,null
+17546.05,Andhra Pradesh,18,2023-01-30,759,cancelled,Tablet,null
+28652.42,Bangalore,13,2023-01-31,760,created,Tablet,null
+11653.22,Bangalore,9,2023-01-10,761,delivered,Laptop,null
+7049.39,Andhra Pradesh,20,2023-01-04,762,created,Phone,null
+15967.72,Chennai,8,2023-01-20,763,shipped,Phone,null
+5506.92,Mumbai,3,2023-01-14,764,shipped,Laptop,null
+34294.62,Andhra Pradesh,20,2023-01-07,765,created,Phone,null
+41680.87,Bangalore,5,2023-01-25,766,created,Phone,null
+34162.25,Mumbai,18,2023-01-03,767,delivered,Headphones,null
+20483.65,Chennai,7,2023-01-05,768,shipped,Tablet,null
+30603.83,Chennai,19,2023-01-06,769,created,Phone,null
+18355.28,Andhra Pradesh,5,2023-01-25,770,cancelled,Tablet,null
+45360.9,Bangalore,3,2023-01-14,771,delivered,Tablet,null
+47579.38,Mumbai,18,2023-01-16,772,created,Tablet,null
+14959.2,Andhra Pradesh,14,2023-01-27,773,delivered,Tablet,null
+16531.86,Chennai,17,2023-01-29,774,cancelled,Tablet,null
+30196.59,Andhra Pradesh,1,2023-01-30,775,shipped,Laptop,null
+20322.53,Bangalore,1,2023-01-23,776,cancelled,Phone,null
+22619,Mumbai,14,2023-01-01,777,delivered,Headphones,null
+1573.86,Mumbai,8,2023-01-24,778,created,Headphones,null
+35793.08,Mumbai,17,2023-01-05,779,shipped,Headphones,null
+45360.26,Andhra Pradesh,8,2023-01-15,780,created,Tablet,null
+31792.31,Chennai,13,2023-01-25,781,cancelled,Headphones,null
+45778.78,Bangalore,6,2023-01-16,782,shipped,Laptop,null
+38172.23,Chennai,11,2023-01-13,783,cancelled,Headphones,null
+49371.29,Chennai,17,2023-01-15,784,cancelled,Headphones,null
+15180.46,Mumbai,3,2023-01-06,785,created,Headphones,null
+40035.83,Bangalore,13,2023-01-03,786,delivered,Laptop,null
+41006.27,Mumbai,16,2023-01-09,787,delivered,Tablet,null
+30028.05,Andhra Pradesh,12,2023-01-07,788,cancelled,Phone,null
+43869.08,Bangalore,14,2023-01-30,789,created,Tablet,null
+29908.38,Chennai,19,2023-01-20,790,delivered,Phone,null
+28695.26,Chennai,18,2023-01-16,791,delivered,Laptop,null
+25751.3,Mumbai,20,2023-01-20,792,cancelled,Laptop,null
+16120.84,Andhra Pradesh,5,2023-01-25,793,delivered,Laptop,null
+25599.21,Mumbai,3,2023-01-07,794,shipped,Phone,null
+32886.53,Mumbai,20,2023-01-10,795,cancelled,Headphones,null
+7931.6,Mumbai,5,2023-01-22,796,delivered,Tablet,null
+44344.42,Mumbai,11,2023-01-05,797,shipped,Phone,null
+42215.16,Andhra Pradesh,8,2023-01-11,798,created,Laptop,null
+29412.67,Mumbai,3,2023-01-15,799,cancelled,Tablet,null
+49926.9,Chennai,19,2023-01-15,800,cancelled,Laptop,null
+38381.46,Bangalore,12,2023-01-22,801,created,Phone,null
+36396.23,Mumbai,13,2023-01-31,802,created,Laptop,null
+30058.32,Andhra Pradesh,19,2023-01-23,803,cancelled,Laptop,null
+5338.31,Andhra Pradesh,10,2023-01-28,804,shipped,Phone,null
+25355.81,Mumbai,1,2023-01-29,805,cancelled,Headphones,null
+11660.74,Mumbai,3,2023-01-23,806,shipped,Phone,null
+4238.17,Andhra Pradesh,11,2023-01-19,807,delivered,Headphones,null
+43016.16,Bangalore,13,2023-01-26,808,delivered,Laptop,null
+39476.76,Bangalore,16,2023-01-17,809,shipped,Headphones,null
+33010.85,Mumbai,9,2023-01-10,810,shipped,Headphones,null
+42355.01,Chennai,16,2023-01-06,811,delivered,Headphones,null
+27429.35,Andhra Pradesh,9,2023-01-29,812,cancelled,Phone,null
+39643.99,Bangalore,12,2023-01-17,813,created,Laptop,null
+27528.93,Mumbai,8,2023-01-12,814,shipped,Phone,null
+8362.51,Mumbai,6,2023-01-30,815,created,Phone,null
+32800.01,Mumbai,4,2023-01-23,816,shipped,Laptop,null
+37172.65,Andhra Pradesh,9,2023-01-29,817,created,Headphones,null
+44180.72,Andhra Pradesh,19,2023-01-29,818,cancelled,Tablet,null
+48245.92,Chennai,11,2023-01-12,819,shipped,Tablet,null
+34078.96,Mumbai,10,2023-01-21,820,shipped,Phone,null
+14182.22,Andhra Pradesh,5,2023-01-15,821,delivered,Headphones,null
+960.81,Andhra Pradesh,12,2023-01-01,822,delivered,Laptop,null
+7871.97,Bangalore,5,2023-01-12,823,delivered,Laptop,null
+14794.27,Andhra Pradesh,15,2023-01-17,824,cancelled,Headphones,null
+10385.77,Bangalore,13,2023-01-20,825,created,Laptop,null
+7511.5,Andhra Pradesh,10,2023-01-03,826,shipped,Laptop,null
+15345.97,Mumbai,3,2023-01-13,827,cancelled,Tablet,null
+30073.77,Mumbai,8,2023-01-01,828,cancelled,Laptop,null
+31434.15,Andhra Pradesh,9,2023-01-26,829,delivered,Phone,null
+37365.17,Bangalore,7,2023-01-21,830,created,Phone,null
+39383.99,Bangalore,15,2023-01-21,831,delivered,Headphones,null
+32060.91,Chennai,1,2023-01-28,832,shipped,Headphones,null
+19129.12,Mumbai,8,2023-01-24,833,delivered,Headphones,null
+47418.94,Chennai,12,2023-01-08,834,delivered,Tablet,null
+45301.8,Andhra Pradesh,13,2023-01-07,835,cancelled,Laptop,null
+29836.94,Chennai,8,2023-01-10,836,created,Tablet,null
+44766.37,Mumbai,10,2023-01-05,837,shipped,Phone,null
+28870.39,Bangalore,9,2023-01-22,838,cancelled,Tablet,null
+1545.13,Mumbai,9,2023-01-24,839,delivered,Phone,null
+1703.75,Mumbai,1,2023-01-25,840,cancelled,Phone,null
+7683.07,Chennai,18,2023-01-05,841,cancelled,Laptop,null
+26165.73,Chennai,3,2023-01-15,842,cancelled,Phone,null
+34304.78,Bangalore,12,2023-01-16,843,delivered,Phone,null
+18601.27,Andhra Pradesh,6,2023-01-01,844,created,Laptop,null
+27203.67,Chennai,15,2023-01-06,845,cancelled,Laptop,null
+2619.2,Mumbai,13,2023-01-03,846,cancelled,Headphones,null
+7237.22,Mumbai,5,2023-01-31,847,shipped,Tablet,null
+14253.93,Bangalore,14,2023-01-08,848,created,Headphones,null
+8441.2,Chennai,2,2023-01-14,849,created,Headphones,null
+44681.08,Bangalore,2,2023-01-14,850,shipped,Tablet,null
+41545.84,Chennai,3,2023-01-01,851,shipped,Headphones,null
+4651.39,Bangalore,15,2023-01-12,852,cancelled,Headphones,null
+10200.83,Chennai,15,2023-01-20,853,shipped,Phone,null
+1420.27,Bangalore,17,2023-01-20,854,shipped,Laptop,null
+19255.9,Mumbai,13,2023-01-15,855,cancelled,Phone,null
+6031.51,Bangalore,19,2023-01-16,856,cancelled,Headphones,null
+32951.13,Andhra Pradesh,5,2023-01-06,857,cancelled,Phone,null
+14231.98,Chennai,9,2023-01-12,858,cancelled,Laptop,null
+39535.89,Andhra Pradesh,8,2023-01-06,859,created,Phone,null
+27828.49,Bangalore,6,2023-01-11,860,created,Phone,null
+14784.23,Chennai,4,2023-01-07,861,created,Tablet,null
+35860.54,Bangalore,7,2023-01-04,862,shipped,Headphones,null
+26095.32,Bangalore,3,2023-01-15,863,cancelled,Laptop,null
+9426.25,Bangalore,3,2023-01-28,864,cancelled,Headphones,null
+41127.78,Mumbai,2,2023-01-03,865,cancelled,Headphones,null
+11538.83,Chennai,16,2023-01-14,866,shipped,Phone,null
+25031.17,Chennai,17,2023-01-02,867,created,Laptop,null
+26630.94,Mumbai,3,2023-01-03,868,shipped,Phone,null
+6818.96,Bangalore,19,2023-01-29,869,shipped,Laptop,null
+9064.48,Chennai,18,2023-01-22,870,delivered,Headphones,null
+41189.28,Bangalore,13,2023-01-09,871,delivered,Phone,null
+19143.24,Chennai,14,2023-01-10,872,created,Phone,null
+9975.83,Chennai,7,2023-01-02,873,created,Phone,null
+42000.13,Chennai,13,2023-01-03,874,shipped,Headphones,null
+41670.64,Andhra Pradesh,17,2023-01-16,875,cancelled,Headphones,null
+46137.58,Andhra Pradesh,8,2023-01-19,876,delivered,Tablet,null
+20534.37,Andhra Pradesh,11,2023-01-31,877,cancelled,Tablet,null
+30309.48,Mumbai,11,2023-01-24,878,cancelled,Phone,null
+38145.67,Bangalore,7,2023-01-10,879,created,Tablet,null
+18672.67,Andhra Pradesh,3,2023-01-13,880,shipped,Laptop,null
+19146.38,Bangalore,6,2023-01-03,881,delivered,Tablet,null
+33477.6,Mumbai,14,2023-01-18,882,cancelled,Phone,null
+15332.45,Bangalore,9,2023-01-12,883,shipped,Phone,null
+7663.22,Chennai,12,2023-01-04,884,cancelled,Tablet,null
+20282.58,Andhra Pradesh,20,2023-01-05,885,shipped,Tablet,null
+28345.83,Bangalore,8,2023-01-01,886,cancelled,Phone,null
+20506.86,Chennai,2,2023-01-19,887,created,Headphones,null
+34437.1,Bangalore,20,2023-01-27,888,delivered,Phone,null
+28148.05,Bangalore,10,2023-01-29,889,delivered,Laptop,null
+38344.7,Mumbai,3,2023-01-12,890,shipped,Phone,null
+36914.19,Chennai,13,2023-01-02,891,cancelled,Headphones,null
+44380.18,Chennai,7,2023-01-26,892,cancelled,Phone,null
+42758.86,Chennai,20,2023-01-13,893,delivered,Laptop,null
+19840.67,Chennai,17,2023-01-21,894,created,Laptop,null
+33320.96,Andhra Pradesh,13,2023-01-22,895,shipped,Tablet,null
+1682.98,Chennai,20,2023-01-01,896,cancelled,Headphones,null
+35683.9,Andhra Pradesh,20,2023-01-22,897,shipped,Laptop,null
+49527.66,Mumbai,14,2023-01-19,898,delivered,Phone,null
+12024.92,Andhra Pradesh,8,2023-01-22,899,shipped,Laptop,null
+44324.49,Mumbai,2,2023-01-15,900,cancelled,Headphones,null
+8695.29,Andhra Pradesh,16,2023-01-28,901,created,Phone,null
+29161.97,Bangalore,7,2023-01-11,902,delivered,Headphones,null
+20424.56,Bangalore,2,2023-01-11,903,created,Phone,null
+40507.49,Bangalore,8,2023-01-26,904,cancelled,Phone,null
+49469.02,Chennai,5,2023-01-30,905,shipped,Laptop,null
+38125.01,Andhra Pradesh,9,2023-01-21,906,created,Phone,null
+40717.27,Andhra Pradesh,9,2023-01-15,907,created,Phone,null
+29075.24,Bangalore,10,2023-01-17,908,delivered,Laptop,null
+968.55,Bangalore,7,2023-01-12,909,delivered,Phone,null
+46785.85,Chennai,7,2023-01-23,910,created,Headphones,null
+9089.3,Andhra Pradesh,11,2023-01-09,911,shipped,Headphones,null
+25474.76,Andhra Pradesh,18,2023-01-05,912,delivered,Phone,null
+988.68,Chennai,5,2023-01-17,913,created,Phone,null
+7092.36,Mumbai,12,2023-01-25,914,created,Headphones,null
+33063.17,Bangalore,11,2023-01-26,915,cancelled,Laptop,null
+32827.09,Chennai,18,2023-01-16,916,cancelled,Phone,null
+46482.53,Chennai,3,2023-01-19,917,shipped,Tablet,null
+33441.02,Chennai,6,2023-01-01,918,created,Tablet,null
+4826.77,Andhra Pradesh,14,2023-01-09,919,shipped,Phone,null
+46046.33,Bangalore,7,2023-01-21,920,cancelled,Laptop,null
+32421.65,Andhra Pradesh,10,2023-01-20,921,shipped,Headphones,null
+7773.93,Chennai,11,2023-01-28,922,created,Phone,null
+48190.9,Chennai,11,2023-01-29,923,delivered,Headphones,null
+23832.33,Bangalore,1,2023-01-23,924,cancelled,Laptop,null
+40075.79,Bangalore,13,2023-01-22,925,shipped,Tablet,null
+6031.19,Chennai,16,2023-01-09,926,shipped,Headphones,null
+43539.84,Chennai,2,2023-01-20,927,created,Tablet,null
+8185.18,Chennai,20,2023-01-04,928,created,Tablet,null
+30570.71,Bangalore,7,2023-01-21,929,cancelled,Headphones,null
+3833.59,Chennai,2,2023-01-01,930,created,Tablet,null
+28547.35,Chennai,5,2023-01-30,931,delivered,Laptop,null
+11790.62,Andhra Pradesh,8,2023-01-05,932,created,Tablet,null
+24875.13,Bangalore,2,2023-01-05,933,delivered,Phone,null
+28726.22,Mumbai,14,2023-01-06,934,created,Laptop,null
+21497.27,Mumbai,10,2023-01-28,935,created,Tablet,null
+43687.28,Chennai,8,2023-01-17,936,shipped,Headphones,null
+8906.68,Chennai,15,2023-01-08,937,shipped,Tablet,null
+17901.66,Mumbai,8,2023-01-27,938,created,Headphones,null
+43875.83,Chennai,4,2023-01-25,939,delivered,Tablet,null
+10665.44,Chennai,16,2023-01-31,940,created,Tablet,null
+6266.5,Chennai,6,2023-01-31,941,shipped,Tablet,null
+19295.77,Mumbai,3,2023-01-07,942,created,Tablet,null
+41432.85,Chennai,2,2023-01-19,943,created,Phone,null
+18596.12,Mumbai,8,2023-01-27,944,shipped,Tablet,null
+31622.49,Chennai,2,2023-01-21,945,delivered,Laptop,null
+19231.48,Andhra Pradesh,11,2023-01-26,946,delivered,Headphones,null
+28557.58,Bangalore,16,2023-01-19,947,created,Tablet,null
+13736.31,Bangalore,16,2023-01-27,948,delivered,Headphones,null
+10100.96,Chennai,19,2023-01-11,949,cancelled,Phone,null
+15180.34,Chennai,10,2023-01-14,950,shipped,Laptop,null
+23649.22,Bangalore,18,2023-01-28,951,cancelled,Tablet,null
+40455.69,Andhra Pradesh,16,2023-01-26,952,shipped,Tablet,null
+20344.29,Chennai,6,2023-01-08,953,cancelled,Laptop,null
+44009.29,Chennai,6,2023-01-05,954,delivered,Headphones,null
+43453.94,Andhra Pradesh,10,2023-01-12,955,cancelled,Phone,null
+31008.3,Mumbai,19,2023-01-19,956,created,Tablet,null
+4190.88,Chennai,19,2023-01-28,957,created,Headphones,null
+7529.75,Chennai,1,2023-01-24,958,created,Phone,null
+10653.14,Andhra Pradesh,3,2023-01-24,959,delivered,Headphones,null
+20669.95,Mumbai,12,2023-01-06,960,delivered,Laptop,null
+43554.79,Bangalore,3,2023-01-14,961,cancelled,Phone,null
+39705.27,Mumbai,2,2023-01-10,962,delivered,Phone,null
+15251.95,Andhra Pradesh,9,2023-01-15,963,shipped,Headphones,null
+26988.59,Mumbai,20,2023-01-01,964,cancelled,Tablet,null
+25252.06,Mumbai,16,2023-01-16,965,cancelled,Tablet,null
+48438.71,Chennai,20,2023-01-14,966,delivered,Phone,null
+39241.51,Mumbai,13,2023-01-21,967,delivered,Phone,null
+14535.36,Chennai,8,2023-01-11,968,delivered,Laptop,null
+22011.43,Bangalore,14,2023-01-28,969,shipped,Headphones,null
+48560.6,Bangalore,18,2023-01-22,970,cancelled,Tablet,null
+17455.53,Chennai,20,2023-01-04,971,created,Laptop,null
+1930.38,Andhra Pradesh,16,2023-01-27,972,delivered,Tablet,null
+24625.59,Mumbai,8,2023-01-24,973,created,Laptop,null
+46875.7,Andhra Pradesh,9,2023-01-07,974,shipped,Headphones,null
+40643.47,Andhra Pradesh,6,2023-01-02,975,cancelled,Phone,null
+46381.5,Bangalore,14,2023-01-28,976,delivered,Phone,null
+11917.15,Bangalore,8,2023-01-27,977,cancelled,Tablet,null
+1203.71,Mumbai,6,2023-01-24,978,created,Phone,null
+46522.49,Bangalore,19,2023-01-30,979,cancelled,Phone,null
+48595.66,Bangalore,12,2023-01-23,980,created,Headphones,null
+28434.9,Andhra Pradesh,3,2023-01-27,981,cancelled,Laptop,null
+4267.3,Bangalore,1,2023-01-16,982,cancelled,Laptop,null
+11818.01,Bangalore,15,2023-01-10,983,created,Tablet,null
+25716.71,Bangalore,8,2023-01-21,984,created,Tablet,null
+44809.15,Mumbai,4,2023-01-06,985,shipped,Headphones,null
+11575.83,Bangalore,11,2023-01-15,986,delivered,Tablet,null
+28444.57,Mumbai,18,2023-01-02,987,delivered,Phone,null
+25029.25,Bangalore,14,2023-01-09,988,shipped,Laptop,null
+38980.57,Bangalore,2,2023-01-10,989,shipped,Headphones,null
+6671.23,Bangalore,11,2023-01-14,990,shipped,Tablet,null
+47401.15,Andhra Pradesh,20,2023-01-26,991,cancelled,Laptop,null
+49221.32,Mumbai,9,2023-01-19,992,shipped,Laptop,null
+29615.53,Mumbai,12,2023-01-25,993,cancelled,Phone,null
+45571.39,Andhra Pradesh,13,2023-01-23,994,shipped,Laptop,null
+48801.86,Chennai,18,2023-01-21,995,shipped,Phone,null
+16513.6,Bangalore,19,2023-01-21,996,shipped,Phone,null
+42065.32,Chennai,18,2023-01-08,997,delivered,Tablet,null
+599.89,Chennai,6,2023-01-13,998,delivered,Headphones,null
+4976.43,Bangalore,20,2023-01-22,999,created,Headphones,null
