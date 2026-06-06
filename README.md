@@ -40,3 +40,45 @@ flowchart TD
     B --> C[Silver Layer<br/>Cleaned Data]
     C --> D[Gold Layer<br/>Business Metrics]
 ```
+
+### Implementation Steps
+
+#### Data Generation
+
+A Python script was used to generate synthetic order data.
+
+#### Databricks Setup
+
+- Created Catalog
+- Created Schema
+- Created Volume
+- Uploaded JSON data generation script in python workspace
+
+#### AI Assisted Pipeline Creation
+
+Databricks Genie was provided business requirements and generated the pipeline workflow.
+
+#### Validation
+
+The generated Bronze, Silver and Gold layers were validated to ensure:
+- Correct filtering logic
+- Accurate Metric calculations
+- Proper Medallion Architecture implementation
+
+### Business Metrics
+
+#### Metric 1
+
+Total Sales by City
+
+#### Metric 2
+
+Total Orders by Status
+
+### Key Learnings
+
+- Medallion Architecture
+- AI Assisted Data Engineering
+- Databricks Data Organization
+- Data Validation Techniques
+- Conversational Analytics using Databricks Genie
