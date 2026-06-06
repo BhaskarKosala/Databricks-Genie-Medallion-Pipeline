@@ -75,6 +75,10 @@ Total Sales by City
 
 Total Orders by Status
 
+### ETL Pipeline in Databricks
+
+![image_alt](https://github.com/BhaskarKosala/Databricks-Genie-Medallion-Pipeline/blob/418b86a976476c63dd977ea6d3ec1469dab76078/%20pipeline.png)
+
 ### Key Learnings
 
 - Medallion Architecture
