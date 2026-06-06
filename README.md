@@ -1,8 +1,8 @@
 # Databricks-Genie-Medallion-Pipeline
 
-# AI Assisted Medallion Data Pipeline using Databricks Genie
+## AI Assisted Medallion Data Pipeline using Databricks Genie
 
-** Overview **
+### Overview
 
 This project demonstrated the implementation of Medallion Architecture (Bronze, Silver and Gold layers) using Databricks Genie for AI Assisted Data Engineering.
 
